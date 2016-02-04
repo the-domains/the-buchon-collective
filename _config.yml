@@ -1,26 +1,26 @@
-color:
-  saturation: 0.483871
-  brandStrength: 1
-  rhythmicContrast: 0.4874316
-  brandColors:
-    - '#8891A3'
-    - '#BBBCC8'
-    - '#305452'
-    - '#E8E1EA'
-    - '#0E0E15'
-  lightness: 0.3261649
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.5681003
+color:
+  saturation: 0.483871
+  brandStrength: 1
+  lightness: 0.3261649
+  brandColors:
+    - '#8891A3'
+    - '#BBBCC8'
+    - '#305452'
+    - '#E8E1EA'
+    - '#0E0E15'
+  rhythmicContrast: 0.4874316
+layout_spectrum: 1
 name: The Buchon Collective
