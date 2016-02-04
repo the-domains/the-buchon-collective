@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.483871
+  lightness: 0.3261649
+  brandStrength: 1
+  brandColors:
+    - '#8891A3'
+    - '#BBBCC8'
+    - '#305452'
+    - '#E8E1EA'
+    - '#0E0E15'
+  rhythmicContrast: 0.4874316
+typography_spectrum: 0.5681003
+name: The Buchon Collective
