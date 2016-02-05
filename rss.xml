@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Buchon Collective]]></title>
+        <description><![CDATA[The Buchon Collective]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 05 Feb 2016 01:00:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dog]]></title>
+            <description><![CDATA[<article><h1>Dog</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9f0a1cdbfdff3f3d69868dcf28a579089c3f1d6.png"></article>]]></description>
+            <link>undefineddog/index.html</link>
+            <guid isPermaLink="false">79c8b35a-a9fb-4ca8-aa86-cc4bcb8dc35d</guid>
+            <pubDate>Fri, 05 Feb 2016 01:00:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
