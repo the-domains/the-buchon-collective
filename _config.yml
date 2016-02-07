@@ -1,3 +1,7 @@
+name: The Buchon Collective
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.5681003
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.5681003
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.483871
-  brandStrength: 1
-  lightness: 0.3261649
   brandColors:
     - '#8891A3'
     - '#BBBCC8'
     - '#305452'
     - '#E8E1EA'
     - '#0E0E15'
+  brandStrength: 1
+  lightness: 0.3261649
+  saturation: 0.483871
   rhythmicContrast: 0.4874316
-layout_spectrum: 1
-name: The Buchon Collective
+purpose: []
