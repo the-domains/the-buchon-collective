@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Collectively Creative]]></title>
         <description><![CDATA[Collectively Creative]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-buchon-collective/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 05:00:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 05:01:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-buchon-collective/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Art comes in many forms. Majesty is hard to find. ]]></title>
+            <description><![CDATA[<article><h1>Art comes in many forms. Majesty is hard to find. </h1><p>Art comes in many forms. Majesty is hard to find.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fdae6ac5490b85562819493788e6ec58288de772.png"></article>]]></description>
+            <link>https://thegrid.ai/the-buchon-collective/art-comes-in-many-forms-majesty-is-hard-to-find/index.html</link>
+            <guid isPermaLink="false">c0f4de56-e78f-455a-b2fb-815189d3f556</guid>
+            <pubDate>Tue, 09 Feb 2016 05:00:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Industrial detail ]]></title>
             <description><![CDATA[<article><h1>Industrial detail </h1><p>Industrial detail</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40213153bd2568112d9181ca418cac93ef714ef8.png"></article>]]></description>
-            <link>undefinedindustrial-detail/index.html</link>
+            <link>https://thegrid.ai/the-buchon-collective/industrial-detail/index.html</link>
             <guid isPermaLink="false">cf3a7409-f6f0-4fba-9982-0550403fec94</guid>
             <pubDate>Tue, 09 Feb 2016 05:00:34 GMT</pubDate>
         </item>
