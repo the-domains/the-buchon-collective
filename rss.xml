@@ -4,7 +4,7 @@
         <description><![CDATA[Collectively Creative]]></description>
         <link>https://thegrid.ai/the-buchon-collective/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 00:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 04:43:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-buchon-collective/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Micro reef  getting the best of the tide]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/the-buchon-collective/micro-reef-getting-the-best-of-the-tide/index.html</link>
             <guid isPermaLink="false">c2929625-35b1-4861-bc5e-7832605901ec</guid>
             <pubDate>Sun, 07 Feb 2016 00:16:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dog]]></title>
-            <description><![CDATA[<article><h1>Dog</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9f0a1cdbfdff3f3d69868dcf28a579089c3f1d6.png"></article>]]></description>
-            <link>urn:uuid:f67e72d9-98f9-4cfc-bafa-fc8c00ca09db</link>
-            <guid isPermaLink="false">79c8b35a-a9fb-4ca8-aa86-cc4bcb8dc35d</guid>
-            <pubDate>Sun, 07 Feb 2016 00:12:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
