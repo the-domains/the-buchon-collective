@@ -6,16 +6,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.09139785
+  saturation: 0.6541219
   brandStrength: 1
-  lightness: 0.3261649
+  lightness: 0.5537634
   brandColors:
     - '#8891A3'
     - '#BBBCC8'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: The Buchon Collective
 favicon: null
+name: The Buchon Collective
 opengraph:
   image: null
   type: null
